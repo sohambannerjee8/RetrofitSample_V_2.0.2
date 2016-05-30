@@ -2,7 +2,6 @@
 
 Library used
 
-  -  com.android.support:design:23.1.1
   -  org.projectlombok:lombok:1.16.6
   - com.squareup.retrofit2:retrofit:2.0.2
   -  com.squareup.okhttp3:okhttp:3.3.1
